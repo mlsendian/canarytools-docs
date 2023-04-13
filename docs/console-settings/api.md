@@ -289,6 +289,7 @@ Since we currently only allow for a single API key, this can only be achieved by
 
 :::: tabs :options="{ useUrlFragment: false }"
 
+  Hi
 ::: tab "cURL"
 
 ``` bash
